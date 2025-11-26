@@ -1,0 +1,27 @@
+[
+    {
+        "nome": "Ana Silva",
+        "idade": 25,
+        "cidade": "São Paulo"
+    },
+    {
+        "nome": "João Santos",
+        "idade": 30,
+        "cidade": "Rio de Janeiro"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "idade": 22,
+        "cidade": "Belo Horizonte"
+    },
+    {
+        "nome": "Pedro Costa",
+        "idade": 35,
+        "cidade": "Recife"
+    },
+    {
+        "nome": "Carla Rodrigues",
+        "idade": 28,
+        "cidade": "Salvador"
+    }
+]

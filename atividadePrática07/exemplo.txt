@@ -1,0 +1,6 @@
+Este é um arquivo de exemplo.
+Ele contém várias linhas de texto.
+Cada linha será exibida com numeração.
+Podemos ter linhas com números: 12345
+E também linhas com símbolos: !@#$%
+Última linha do arquivo.
